@@ -39,6 +39,6 @@ O principal objetivo do projeto é:
 
 ## 🖇️ Links
 
-Repositório: 
+Repositório: https://github.com/luancarlos13/Store-DevClub
 
-Deploy do Projeto:
+Deploy do Projeto: https://luancarlos13.github.io/Store-DevClub/
